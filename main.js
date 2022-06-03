@@ -6,3 +6,12 @@ const logPets = () => {
 }
 
 logPets()
+const logNames = () => {
+    console.log("Evan Mitchell")
+    console.log("Tiffany Smith")
+    console.log("Ryan Downey")
+    console.log("Seth Lewis")
+}
+
+const names = logNames()
+
