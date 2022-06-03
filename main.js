@@ -14,4 +14,3 @@ const logNames = () => {
 }
 
 const names = logNames()
-
