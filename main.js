@@ -5,5 +5,5 @@ const logNames = () => {
     console.log("Seth Lewis")
 }
 
-logNames()
+const names = logNames()
 
